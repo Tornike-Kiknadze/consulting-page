@@ -367,7 +367,7 @@ body {
 .composition {
   position: relative; }
   .composition__photo {
-    width: 55%;
+    width: 30%;
     box-shadow: 0 0.8rem 8rem rgba(0, 0, 0, 0.2);
     position: absolute;
     transition: all 0.5s; }
@@ -377,7 +377,7 @@ body {
         position: relative;
         width: 63.333333333%; } }
     .composition__photo--p1 {
-      left: 20%;
+      left: 25%;
       top: 1rem;
       opacity: 0.7;
       padding: 1px;
@@ -386,7 +386,7 @@ body {
         .composition__photo--p1 {
           top: -6rem; } }
     .composition__photo--p2 {
-      left: 20%;
+      left: 25%;
       opacity: 0.7;
       padding: 1px;
       background-color: #4CA1AF; }
@@ -1034,7 +1034,7 @@ body {
       letter-spacing: 1rem; } }
 
 .composition__photo--p2 {
-  top: 27rem; }
+  top: 25rem; }
   @media (max-width: 56.25em) {
     .composition__photo--p2 {
       top: 0rem; } }
